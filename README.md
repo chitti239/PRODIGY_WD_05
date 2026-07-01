@@ -1,5 +1,3 @@
-# PRODIGY_WD_05
-
 # 🌦 WeatherSphere
 
 WeatherSphere is a modern, responsive weather dashboard built using **HTML**, **CSS**, and **JavaScript**, powered by the OpenWeatherMap API.
